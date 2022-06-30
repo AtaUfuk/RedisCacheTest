@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerAppRedish", "BlazorServerAppRedish\BlazorServerAppRedish.csproj", "{423560F2-9605-4379-99FB-0288A2E2756B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{E27A6392-0D6B-4E96-8EBF-E4B513B05A87}"
+	ProjectSection(SolutionItems) = preProject
+		Credits.txt = Credits.txt
+		RedisDockerCommands.txt = RedisDockerCommands.txt
+		UsedThirtPartyLibraries.txt = UsedThirtPartyLibraries.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423560F2-9605-4379-99FB-0288A2E2756B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423560F2-9605-4379-99FB-0288A2E2756B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423560F2-9605-4379-99FB-0288A2E2756B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423560F2-9605-4379-99FB-0288A2E2756B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53F5C3C9-694F-42CD-A78C-E14942B11AB6}
+	EndGlobalSection
+EndGlobal
